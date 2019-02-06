@@ -1,3 +1,6 @@
+#  Copyright (c) 2019
+#  Erick Ogaro
+
 from django.contrib import admin
 
 from .models import Question, Choice
